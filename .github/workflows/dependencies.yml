@@ -37,4 +37,4 @@ jobs:
           reviewers: tino-otto
           delete-branch: true
           base: main
-        uses: peter-evans/create-pull-request@v4
+        uses: peter-evans/create-pull-request@v5
