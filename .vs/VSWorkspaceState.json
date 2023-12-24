@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\App",
+    "\\src\\App\\Modal",
+    "\\src\\common",
+    "\\src\\common\\Button",
+    "\\src\\common\\hooks",
+    "\\src\\common\\Icon",
+    "\\src\\common\\types",
+    "\\src\\typings"
+  ],
+  "SelectedNode": "\\src\\static\\background-mobile.png",
+  "PreviewInSolutionExplorer": false
+}
